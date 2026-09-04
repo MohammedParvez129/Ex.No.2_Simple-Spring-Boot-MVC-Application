@@ -1,5 +1,6 @@
 # Exp_2_Simple-Spring-Boot-MVC-Application
-
+### Developed by: VIMALA RANI A
+### RegisterNumber:  212223040240
 ## AIM:
 To develop a Simple Spring Boot MVC (Model-View-Controller) Application that uses a Controller to handle HTTP requests, a Model to pass data, and a View (Thymeleaf) to render dynamic HTML pages.
 
@@ -141,4 +142,10 @@ public class HomeController {
 ### application.properties:
  server.port=8081
 
+## Output:
+<img width="1511" height="867" alt="image" src="https://github.com/user-attachments/assets/6a25128b-11e2-4548-a967-bfad4933a83e" />
+
+
+## Result:
+Hence Simple Spring Boot MVC is successfully created
 
