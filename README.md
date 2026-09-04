@@ -1,6 +1,6 @@
 # Exp_2_Simple-Spring-Boot-MVC-Application
-### Developed by: VIMALA RANI A
-### RegisterNumber:  212223040240
+### Developed by: MOHAMMED PARVEZ S
+### RegisterNumber:  212223040113
 ## AIM:
 To develop a Simple Spring Boot MVC (Model-View-Controller) Application that uses a Controller to handle HTTP requests, a Model to pass data, and a View (Thymeleaf) to render dynamic HTML pages.
 
